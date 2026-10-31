@@ -1,0 +1,38 @@
+ASAP AI FOR WINDOWS - ASAP STUDIO
+
+Open Asap Ai from the Start menu. The editor and project tools work without an AI model.
+
+LOCAL AI
+1. Install Ollama from https://ollama.com/download/windows and start it.
+2. In Asap Ai choose Help > Set up local AI > Download and prepare Asap model.
+3. Read the download information and type DOWNLOAD to start. The base model is approximately 13 GB.
+4. When finished, refresh models in Asap Ai and start a chat.
+
+Model setup needs an internet connection. Inference runs locally after the model is installed.
+Hardware affects performance. Allow 20 GB free disk space; at least 16 GB RAM is recommended.
+Model license/details: https://ollama.com/library/gpt-oss:20b
+
+ACCOUNTS AND TOOLS
+Online provider choices require each user's own account and the corresponding provider tool.
+Their subscriptions/API charges and limits are separate. No paid provider is required for local AI.
+Plugins start disabled. Connect only services you choose, using your own credentials.
+Git tools require Git for Windows: https://git-scm.com/download/win
+Windows offline voice recognition depends on installed speech languages.
+
+YOUR DATA
+Settings, chats, memory and recovery data live in %LOCALAPPDATA%\AsapAi.
+The application never includes the developer's private chats, credentials, or model weights.
+Automatic memory starts off; you can choose your preferences in Settings.
+Uninstall removes app files and shortcuts; it preserves your data and projects.
+Ollama and its models are managed separately and are not removed by this uninstaller.
+
+UPDATES
+Close Asap Ai before running a newer installer. Your local data is preserved.
+This release does not download app updates automatically.
+This build is not digitally signed. Windows may identify the publisher as unknown.
+Obtain it only from the publisher's official release page and verify the published SHA-256 checksum.
+
+Project language SDKs (such as Node.js or Python) are separate tools. The bundled Node runtime runs Asap Ai's private helpers.
+
+THIRD-PARTY SOFTWARE
+See THIRD-PARTY-NOTICES.txt, Assets\Licenses and runtime notices for included licenses.
