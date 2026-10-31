@@ -1,0 +1,636 @@
+{
+  "architecture": "win-x64",
+  "files": [
+    {
+      "path": "artifacts/trust-asap-memory-hook.mjs",
+      "bytes": 8241,
+      "sha256": "3be7142c30f39e9f70b237fef00b6236e5e5c0dfe3e01263453640670e30807b"
+    },
+    {
+      "path": "AsapAi.exe",
+      "bytes": 77628644,
+      "sha256": "556005f6e531f6c75a16c1b3ce04d011f94e44593355761b0d7d96e139fc4a89"
+    },
+    {
+      "path": "Assets/Licenses/AvalonEdit-MIT.txt",
+      "bytes": 1075,
+      "sha256": "7cfe74f11eaef7a239e7c63d33595f924e7922fb3e3f3651014389620b228a07"
+    },
+    {
+      "path": "Assets/Licenses/Codicons-CC-BY-4.0.txt",
+      "bytes": 19239,
+      "sha256": "b015da726539b98a696acb6fd3f0a5552aa433e62fa6a7d72915113e3cc9ba82"
+    },
+    {
+      "path": "Assets/Licenses/DotNet-Runtime-LICENSE.txt",
+      "bytes": 1139,
+      "sha256": "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b"
+    },
+    {
+      "path": "Assets/Licenses/DotNet-Runtime-THIRD-PARTY-NOTICES.txt",
+      "bytes": 78041,
+      "sha256": "6d15e10a101c6bfff2ab4429ed061bf76c456fc4b23ad6b03e0d0f8377148a21"
+    },
+    {
+      "path": "Assets/Licenses/Markdig-BSD-2-Clause.txt",
+      "bytes": 1318,
+      "sha256": "ae543293657b6782e3d4a76257dc4157210ce88a352ef8392065d3f04dcd88d1"
+    },
+    {
+      "path": "Assets/Licenses/Monaco-MIT.txt",
+      "bytes": 1098,
+      "sha256": "33e4ff1a06ef62ba21788ea162564ee8165269a24a9ce6ef301837447eab0ac6"
+    },
+    {
+      "path": "Assets/Licenses/SimpleIcons-CC0.txt",
+      "bytes": 6569,
+      "sha256": "9046848b63a5c92bff14e4accca80bd987e0623b74adf9226ce5198d312b79d5"
+    },
+    {
+      "path": "Assets/Licenses/System.Speech-MIT.txt",
+      "bytes": 1095,
+      "sha256": "66c72005f4668f81956a47ad778f3bb0f0a7eb198251078604fb8119dc14efc0"
+    },
+    {
+      "path": "Assets/Licenses/System.Speech-Third-Party-Notices.txt",
+      "bytes": 78041,
+      "sha256": "6d15e10a101c6bfff2ab4429ed061bf76c456fc4b23ad6b03e0d0f8377148a21"
+    },
+    {
+      "path": "Assets/Licenses/WPF-Runtime-LICENSE.txt",
+      "bytes": 1137,
+      "sha256": "a89886665765362eb77e0f8e26602c924520041d1711b2eedc136434fe4d01ab"
+    },
+    {
+      "path": "Assets/NOTICE.md",
+      "bytes": 3224,
+      "sha256": "86fcaaee69f2fcc83cc933f6b4242ff4892b806eff9e6260ce3b355a5f000d97"
+    },
+    {
+      "path": "desktop-asap/bridge/AsapDesktopBridge.ps1",
+      "bytes": 14994,
+      "sha256": "6a33455601fe2dc45d8130c1a84e984d2dd49716aedc0882287f510ed709267f"
+    },
+    {
+      "path": "desktop-asap/bridge/Start-AsapDesktopBackend.ps1",
+      "bytes": 8086,
+      "sha256": "8a89189b92cba185bff43b2863fa9d48f88b85a44413da3f07754b4dd7205d91"
+    },
+    {
+      "path": "desktop-asap/bridge/Start-AsapOllamaService.ps1",
+      "bytes": 2000,
+      "sha256": "5cbcc16da6303069a2410112e92f13d48a04ad597367d9e77120e7592ff0bb89"
+    },
+    {
+      "path": "desktop-asap/bridge/TerminalHost.cs",
+      "bytes": 7599,
+      "sha256": "076bb55b1b7372737aa72f1ecac279e92fbb397a9907d15a1e9ef6304c3e8e5a"
+    },
+    {
+      "path": "desktop-asap/bridge/TerminalHost.ps1",
+      "bytes": 517,
+      "sha256": "10ddda8aa74d0837f69c144c86733e73dda53b5201284b8acd9377f3063c31e9"
+    },
+    {
+      "path": "desktop-asap/main/children.cjs",
+      "bytes": 4151,
+      "sha256": "92c2c0ec5f0742578970b8b56dbd769e0a688e911ad593fff1a87b2a1879252e"
+    },
+    {
+      "path": "desktop-asap/main/cleanup.cjs",
+      "bytes": 993,
+      "sha256": "9e4a5bfd15ebae300db478bab963a81938f0653d6eb2304407ea2606d7464928"
+    },
+    {
+      "path": "desktop-asap/main/plugin-policy.cjs",
+      "bytes": 2284,
+      "sha256": "b3b2584957a4b5882b3974677f9575a899b68073b3a0ec7c4ec53ac5199aa9cd"
+    },
+    {
+      "path": "desktop-asap/main/rpc.cjs",
+      "bytes": 6846,
+      "sha256": "bd8b836a1a7cfa6b66dc92e5fe8b0024ca5e03cccbcd61bb8c2a7ab8bfcd8b7b"
+    },
+    {
+      "path": "desktop-asap/main/state.cjs",
+      "bytes": 1771,
+      "sha256": "ca0cb1b79307a9c11882a58480f700f28cfc59760cc0b5f327fe487f188a62ad"
+    },
+    {
+      "path": "desktop-asap/main/workspace.cjs",
+      "bytes": 11022,
+      "sha256": "c500da21b8b7beb7bbea9ae5681ee1841e4910b6104125f3a49da1ee2ab7fab1"
+    },
+    {
+      "path": "FIRST-STEPS.txt",
+      "bytes": 2124,
+      "sha256": "865b6c8f966a25fec04a1c1abbc7a2698257fa4697ec1f164805271f7bbad791"
+    },
+    {
+      "path": "Launch Asap Ai.cmd",
+      "bytes": 207,
+      "sha256": "8883d53fd2cfd08650c3d437a70abcf4b82818636a5724bf4764aef3f2d3703e"
+    },
+    {
+      "path": "local-asap/AsapAi.Modelfile",
+      "bytes": 7472,
+      "sha256": "bed3ab4a872af73ad16736e2f37c9cc32cb4b5b3b9bb9018c020f817efc39327"
+    },
+    {
+      "path": "local-asap/AsapBranding.psm1",
+      "bytes": 1944,
+      "sha256": "a436ee4fe833675892cbd70c1e4ad76af972dbeba5d2982d1d9b3cfbb980b960"
+    },
+    {
+      "path": "local-asap/AsapCatalog.psm1",
+      "bytes": 5794,
+      "sha256": "f0a03bffe20738f931540f42774142b8ca687358461ef425df9195a2d320275f"
+    },
+    {
+      "path": "local-asap/AsapChatProviders.psm1",
+      "bytes": 13758,
+      "sha256": "e1524f977d39591331bd306b0cf02edf67dce5417cac963b9e5e203e12bd5881"
+    },
+    {
+      "path": "local-asap/AsapCloudModels.psm1",
+      "bytes": 9006,
+      "sha256": "2019b11ccedda53d7ece97e0dc9b40b54b4d02cbcfe7dc5e2ee6278ecd8eceaa"
+    },
+    {
+      "path": "local-asap/AsapCloudRuntime.psm1",
+      "bytes": 8715,
+      "sha256": "4fe47ca84b44e76eff3b6f31f613d6459b69f2ee2efaf9a387da2186d7afbbb2"
+    },
+    {
+      "path": "local-asap/AsapCloudUi.psm1",
+      "bytes": 4185,
+      "sha256": "48d368871eec0cfc3b503cdde15968bcd9d5c08e26789464e1ef59e179730d9d"
+    },
+    {
+      "path": "local-asap/AsapDataRoot.psm1",
+      "bytes": 2392,
+      "sha256": "b3fb87700199af7be66ffbe05adc7515f18d52467826567c3ab1a825f0cd9a43"
+    },
+    {
+      "path": "local-asap/AsapDistribution.psm1",
+      "bytes": 12421,
+      "sha256": "a3a14fbf1115125853c516f3183aade6c47b71dff8d0c58a140781ff34370e13"
+    },
+    {
+      "path": "local-asap/AsapInstructions.md",
+      "bytes": 5924,
+      "sha256": "fc29c2a204d8b9cd9fd2e8ebee3a3555d3cb7817e328b51e6fe3bfc863533c8b"
+    },
+    {
+      "path": "local-asap/AsapLocalStore.psm1",
+      "bytes": 5211,
+      "sha256": "9e2ddc6b496fdb705cc769ecdccae3d45551de60bf5a53add1aee4ce9a5796c0"
+    },
+    {
+      "path": "local-asap/AsapMedia.psm1",
+      "bytes": 1143,
+      "sha256": "2aad1ecd79eecf616ab76e3c42396c8b8a645fe8df7e6288a4b9a2a16b838795"
+    },
+    {
+      "path": "local-asap/AsapMediaDialogs.cs",
+      "bytes": 35773,
+      "sha256": "0e2b80393fe4af439ed0000b412b541fb45126d96825ef32298c34b6d81887f0"
+    },
+    {
+      "path": "local-asap/AsapMenuReturn.psm1",
+      "bytes": 7319,
+      "sha256": "20a1a9c04486177030f571fcac9c4b22db45640e64fa5d54a81ae437a9315a9a"
+    },
+    {
+      "path": "local-asap/AsapModels.psm1",
+      "bytes": 12640,
+      "sha256": "093333441400536f9187b4ba9c9192e662a60e3050689a07ea1dedef7094d7f3"
+    },
+    {
+      "path": "local-asap/AsapPluginConnections.psm1",
+      "bytes": 7857,
+      "sha256": "8e7d811b4ab86ddbd3b2705b87a5350edb06bffb61c3f54c463e39a655165fbb"
+    },
+    {
+      "path": "local-asap/AsapPlugins.psm1",
+      "bytes": 12137,
+      "sha256": "630fff3e25b0c8cbfcd0545d049ec259c1b675b21e2e51098f90655cb923403f"
+    },
+    {
+      "path": "local-asap/AsapPreferences.psm1",
+      "bytes": 5306,
+      "sha256": "6c387cedc30dca1afaf5cf73c1dcc4bd3f470c883058312728e784bc472dfaef"
+    },
+    {
+      "path": "local-asap/AsapProfile.psm1",
+      "bytes": 1440,
+      "sha256": "721dc25a9e454d2de1d93bad7b43bb50ffb0361726567f80a818fd87521ae1cb"
+    },
+    {
+      "path": "local-asap/AsapProjects.psm1",
+      "bytes": 15618,
+      "sha256": "5fa2c23ee66d665e2b4a2c8ef52e498980662aed9c5eadf075ee435af9c13c89"
+    },
+    {
+      "path": "local-asap/AsapRuntime.psm1",
+      "bytes": 15040,
+      "sha256": "eb538dbc4fc1a89110b8a3b5aee3b99b9825ab18a185978c1b9c801b0f328a84"
+    },
+    {
+      "path": "local-asap/AsapTerminalUi.psm1",
+      "bytes": 5514,
+      "sha256": "ba97fc4e3ce879880f101bc587877c5330d2483dbf263c5cb06e087c86c2e07c"
+    },
+    {
+      "path": "local-asap/AsapUtilities.psm1",
+      "bytes": 4328,
+      "sha256": "cc209bbc6d6c6e1925f1154bff46a98481a2321896eb08b2d71025dc2ba7730a"
+    },
+    {
+      "path": "local-asap/CodingInstructions.md",
+      "bytes": 5640,
+      "sha256": "1edab2c62f3ff7673a79182c258849a0ee426a54f1f19e3d60c0d2c8d856f457"
+    },
+    {
+      "path": "local-asap/distribution.config.toml",
+      "bytes": 1638,
+      "sha256": "250213fbd835a61536f8b266714b862a0bfb52884219d85454230bdfe4336bcb"
+    },
+    {
+      "path": "local-asap/Install-AsapAiModel.ps1",
+      "bytes": 5346,
+      "sha256": "55c0989d6023437107691983de0705bb8b3e5bdd8f1ba252a4fc2b9a32925e9e"
+    },
+    {
+      "path": "local-asap/Install-AsapGrok.ps1",
+      "bytes": 2717,
+      "sha256": "700888c93b6d7d9f69017cd31553cc863c334e3fe756383a61d0818bae5d2978"
+    },
+    {
+      "path": "local-asap/installation.cjs",
+      "bytes": 1402,
+      "sha256": "f3a7b19d89fcd03e501fbf44e0b85f0bc382c6e858776410cd46dcc1c140f8ff"
+    },
+    {
+      "path": "local-asap/installation.json",
+      "bytes": 43,
+      "sha256": "5b28324ac30fc326b38da0018a3e222c86c21fe2f98b6f210be7f5bd6defafd7"
+    },
+    {
+      "path": "local-asap/memory-hook.mjs",
+      "bytes": 7928,
+      "sha256": "52d60e1645c2a1d0a77f9509e3557bdecc43cc39e9b905aeecc09cf2a3f30617"
+    },
+    {
+      "path": "local-asap/memory-model.mjs",
+      "bytes": 1746,
+      "sha256": "cc2d7f6f7c72c3d7eef97cbec81e109bdc2f874745ef00e938088d122b4ef370"
+    },
+    {
+      "path": "local-asap/memory-store.mjs",
+      "bytes": 15451,
+      "sha256": "90f0f6a4265a6552e48665491ccf02ab5b546a79274c6201545a6b9c9408c224"
+    },
+    {
+      "path": "local-asap/model-probe.mjs",
+      "bytes": 7007,
+      "sha256": "57b11f0a1acdac2a3913bc1705b91c5026125321bc811206c0d5d5dab4f01af2"
+    },
+    {
+      "path": "local-asap/personal-tools.mjs",
+      "bytes": 5017,
+      "sha256": "270d120db7c5aab12836f85ab96c6f3f1e9ba5569103132154766f903af89a81"
+    },
+    {
+      "path": "local-asap/Save-GitHubToken.ps1",
+      "bytes": 1797,
+      "sha256": "bd5422036072878d2e571e8d89f4c94a1c08cf1a03b310406862271fa03bc316"
+    },
+    {
+      "path": "local-asap/Start-AsapAi.ps1",
+      "bytes": 33125,
+      "sha256": "cb655ac06633382fceb20644031a763da4968a8397a1024fc6b9147cc398c166"
+    },
+    {
+      "path": "local-asap/Start-AsapCloud.ps1",
+      "bytes": 2807,
+      "sha256": "f718418e64e3abba0d273c9a6bdc75f551a22f3518f8468835528f09ce3a3b0f"
+    },
+    {
+      "path": "local-asap/Start-AsapMedia.ps1",
+      "bytes": 2362,
+      "sha256": "e41fa26a61318656c9b82d1c9efb5a5c5fdf8f15bfdfb58f7067f89bd1bac4f3"
+    },
+    {
+      "path": "local-asap/Update-AsapProjectTask.ps1",
+      "bytes": 1229,
+      "sha256": "be22f412a4222fad360bd6418db242120382e6f7e75346785cc456b620d407f2"
+    },
+    {
+      "path": "native-asap/backend/context.cjs",
+      "bytes": 3143,
+      "sha256": "7e442b0cb243f04587ef765b89cb3c329c0248ac5b891cc9aa6685a2ac96f885"
+    },
+    {
+      "path": "native-asap/backend/engine.cjs",
+      "bytes": 32696,
+      "sha256": "db3ff051eebba60b3a2906eead302b657c339d42c7adcc874d1743d538fb8dc7"
+    },
+    {
+      "path": "native-asap/backend/project-tools.cjs",
+      "bytes": 10165,
+      "sha256": "ff8619430d885d501bc739e1ef32007048e6d2ef6a37e1a85fdf23b6afd80d72"
+    },
+    {
+      "path": "native-asap/backend/protocol.cjs",
+      "bytes": 5142,
+      "sha256": "7edbe1fd0d7a30dfed50b250ae2e2866a644f36277140369b1be9c9423f9d870"
+    },
+    {
+      "path": "native-asap/backend/review-workspace.cjs",
+      "bytes": 9967,
+      "sha256": "b47c137dcbb6da3acefccd20715b80fe5c49a6a9755bbf67772efaaa6e2fcf3a"
+    },
+    {
+      "path": "native-asap/backend/saved-history.cjs",
+      "bytes": 3490,
+      "sha256": "fc9bbde57747e4a5ed265bf5c4d6364493abf1a2710caab26095d9cce942cdd0"
+    },
+    {
+      "path": "native-asap/backend/service.cjs",
+      "bytes": 1330,
+      "sha256": "0a5af9e86618e138762543224b68a7b4d2bc32f0966e206b1f052a794da3df42"
+    },
+    {
+      "path": "runtime/asap-ui/active.json",
+      "bytes": 265,
+      "sha256": "e1dc5ebcb2db677d86aef5c75cc35cd5930a39cef3e97b520414d70920ef93c0"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/ASAP-AI-MODIFICATIONS.txt",
+      "bytes": 902,
+      "sha256": "c2e01b1e7f96dae14af0d7c06c8d0b3be7ecd5bdec1f987ce5cef0a59c59c50c"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/bin/codex-code-mode-host.exe",
+      "bytes": 78141232,
+      "sha256": "be52517ca0f9a8eb626ec065ed3a357b5ee150fe1934a254d0126e6d40f29b57"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/bin/codex.exe",
+      "bytes": 340476416,
+      "sha256": "4bfdab6833fe993746f79859b64959cb24d785378c34f73e2a49ec99518310a6"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-package.json",
+      "bytes": 215,
+      "sha256": "8a25a072b24cd4894bf2679ab11f7d940f1faa6b6b65b58e80aa3162b7d95a43"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-path/rg.exe",
+      "bytes": 4218880,
+      "sha256": "14231169855ec5205cf5a1b6f1db358ff4aed4247c86b69ce8aae647c77f6680"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/codex-command-runner.exe",
+      "bytes": 8743216,
+      "sha256": "30b0ba5d42d3a95c839731fbf9939d728a70fcd9e433245a7cb15bc79418a4db"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/codex-windows-sandbox-setup.exe",
+      "bytes": 18793264,
+      "sha256": "2cac62ff24aca3aef7768ab5b96d4102e8434eb0cf8ddbc6171b85a8fb3bb4ef"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/bin/codex-voice-host.exe",
+      "bytes": 8903472,
+      "sha256": "3b22607ee50aba07006c5f2b8ff63ae6d0747ce5ba4de208f46c504d4d220b40"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/bin/gio-2.0-0.dll",
+      "bytes": 1695536,
+      "sha256": "fc1863c93f390931ff56d77c22cb0e08286475159ae05ef8ac0834e1182ec624"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/bin/glib-2.0-0.dll",
+      "bytes": 1390896,
+      "sha256": "5e2d5d776437d7cf9b46f497fd9ccf818024eb438cf679f0ba61219dbb789d6c"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/bin/gmodule-2.0-0.dll",
+      "bytes": 34608,
+      "sha256": "1b95e92d541d3c75e55e31f5ffd2a97b6ee7a5810466f7c70fbf38dfd74e592a"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/bin/gobject-2.0-0.dll",
+      "bytes": 348464,
+      "sha256": "0afafc600fe094fc8bcd2443842d790a158eeabba902ba6090d57cb56fdaa87e"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/bin/gstapp-1.0-0.dll",
+      "bytes": 100144,
+      "sha256": "200135d7f44e60358613af2c52cda0fce89a788a0c791df9a0a15e8e7fe920ca"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/bin/gstapp.dll",
+      "bytes": 25392,
+      "sha256": "2238f387158df1442e01e943955d5d2afde5ab76f6649f4e3741b45bde9444b7"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/bin/gstaudio-1.0-0.dll",
+      "bytes": 512304,
+      "sha256": "d808980d749f0bd3f3ddc82f2578be259ac69d6fd10ed8a142fc85e653037eb4"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/bin/gstaudioconvert.dll",
+      "bytes": 48432,
+      "sha256": "1c134866ff78b04c5839be4217a6b3808f11f538a1b4f99527ed88fe356e3fd6"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/bin/gstaudioresample.dll",
+      "bytes": 45352,
+      "sha256": "642e1584909a9181603d119fca2f0757af030e8b24b5c9a3851c93ca8e7c3620"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/bin/gstbase-1.0-0.dll",
+      "bytes": 484144,
+      "sha256": "1a9ee1457491d8867e3c1d31146aab18cea0f69de72d4b9dd8456036b0d195e8"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/bin/gstcoreelements.dll",
+      "bytes": 409904,
+      "sha256": "dc06b51fc0a1705e7347cb327fdc71b60949c41635b373348dd682f8d3748fc1"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/bin/gstnet-1.0-0.dll",
+      "bytes": 116528,
+      "sha256": "ab16258359a445e566464cddf3dc8f3921c1e7399567501be0c2d63aef45de81"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/bin/gstopus.dll",
+      "bytes": 69424,
+      "sha256": "4c0e7a47dcbfe4a523978f37d10ab4a8f8a1097750dabeb70b47f35733090c71"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/bin/gstpbutils-1.0-0.dll",
+      "bytes": 262448,
+      "sha256": "b7703acfe7cd785340dd492b800f05c16b253e39cf61e2957270bde9d888459d"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/bin/gstreamer-1.0-0.dll",
+      "bytes": 1257264,
+      "sha256": "128cea13843f192a6bfcf1856ee534b9405ac51267b22eaafa092835ca68de12"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/bin/gstrtp-1.0-0.dll",
+      "bytes": 167216,
+      "sha256": "fd8f75e8854e9a9ef898d2f0cf37bc04061ecf7df7e00eef9e307da9ab059c43"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/bin/gstrtp.dll",
+      "bytes": 607536,
+      "sha256": "5d35ddc792fe1f5128161c19098724c8a90b73a6189299e01afd2999be54c8c3"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/bin/gstrtpmanager.dll",
+      "bytes": 501040,
+      "sha256": "d6126b6f3989c0c7e07b1b45813f267b62791083d2467a5bb98c1b4f503f8420"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/bin/gsttag-1.0-0.dll",
+      "bytes": 254256,
+      "sha256": "cd7a36943553cca1ea6ba83bf5a23bf5194fefe97ac2f554091b18a9699e6eeb"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/bin/gstvideo-1.0-0.dll",
+      "bytes": 769840,
+      "sha256": "7529265a18c77962089d5c8d148481363c549117e83fc0273cba65443f5d1ba1"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/bin/intl-8.dll",
+      "bytes": 25392,
+      "sha256": "744dd6ea6d0fa8098866dae561ccb63f96ce1bc4b596908238223a24d0f84ed9"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/bin/libffi-8.dll",
+      "bytes": 43312,
+      "sha256": "18eaeca552c30b654aa63d7406d2d5ef6be79428cadc134e15e2e61580952797"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/bin/opus.dll",
+      "bytes": 440112,
+      "sha256": "00b43b4c72f20b7118cfb44bfa74ca61258b23ab07b8fbfbcce752b682ec6729"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/bin/pcre2-8.dll",
+      "bytes": 398128,
+      "sha256": "9dbc1a938515b1f9ea2a1fd07e938249f380a32ec78b73f5703929404edaafd3"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/bin/vcruntime140.dll",
+      "bytes": 123472,
+      "sha256": "184146852727a9db4eea06178716bec3cdbb1015c911f6b0f915b184ad7775b2"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/bin/z.dll",
+      "bytes": 105264,
+      "sha256": "7aa3d19c0938c0c51b4167d2112f45cb0b4d3257d92f2a21e70c03e541e3ad35"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/licenses/LGPL-2.1.txt",
+      "bytes": 26934,
+      "sha256": "c7ce1276717604c29c5469179a2f368eac42846557be671bb52f4e16e884b2ad"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/licenses/libffi.txt",
+      "bytes": 1153,
+      "sha256": "e2a9b884b1c5d718efd6121457a1fbe7ece431352ca75c901260cef2e7d040e5"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/licenses/Opus.txt",
+      "bytes": 1989,
+      "sha256": "cbd8bd07329a234413710c02b19d22c0cf78fc451882593e817130779b5455e3"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/licenses/PCRE2.md",
+      "bytes": 4115,
+      "sha256": "4195c519dcfe4a4ffedc4b8ccc5d49e4dd02efd5ece6b69a4fba5d20080902a9"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/licenses/proxy-libintl.txt",
+      "bytes": 25774,
+      "sha256": "aa092600e3f475f0a55821fb9c529583d8e23e41bf0461254f02fcf94d3a32c2"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/licenses/sljit.txt",
+      "bytes": 1469,
+      "sha256": "37c7a090fc61388430d63fc97bf8a22ffce92d3ca2249aac572cfaf411d3070f"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/licenses/zlib.txt",
+      "bytes": 1024,
+      "sha256": "439c75ab12b340c5362b9d4b08ff05ec3a4d0eb7667a6fff49a9b16d8795c78e"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/manifest.json",
+      "bytes": 4773,
+      "sha256": "0c7177aa181d484e77a11842cff985be8febd8e6d43beb50c85aa559f46d52d7"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/NOTICE.md",
+      "bytes": 2439,
+      "sha256": "473fcf8ccb68ce726111d016d133f0555adba730d057591512f3f71fb46aeb6e"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/runtime.json",
+      "bytes": 16894,
+      "sha256": "9b14faa7f55b97b34041efbcef70f97ecdc43b308f893bddd86378cdd77232e2"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/sources.json",
+      "bytes": 4911,
+      "sha256": "e2f6b124f6277e7c3c4f5c7cc8830c66190f671ad65e972bb2cc9507dbfcb937"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/codex-resources/voice/windows-crt.json",
+      "bytes": 1385,
+      "sha256": "d16939bc85da395ded5411724fed84ffd36810b78d47c756cf094b0956bc3892"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/LICENSE",
+      "bytes": 11127,
+      "sha256": "aa5e89edcbbd01fc3fb188a527d8bdc0da5812305cab220c84348c14ea427288"
+    },
+    {
+      "path": "runtime/asap-ui/vendor/x86_64-pc-windows-msvc/NOTICE",
+      "bytes": 248,
+      "sha256": "3c505dc54be731583470ef3584e5cb96d60df7add3e7e36294cf4dea8316a5cb"
+    },
+    {
+      "path": "runtime/node/LICENSE",
+      "bytes": 160555,
+      "sha256": "ed34dd8e3f0a78dbaf00d0444ce8e285b015b765379c2e17880455f70370f8e9"
+    },
+    {
+      "path": "runtime/node/node.exe",
+      "bytes": 93922624,
+      "sha256": "1c331340fa6cac5e4294725959070a143fa0507195a78ad77eed7943f719aac9"
+    },
+    {
+      "path": "setup-local-ai.cmd",
+      "bytes": 270,
+      "sha256": "989665971ce0c64d2ceedd96b1826c4538651b29bc554c7ace75ac85c97e17ce"
+    },
+    {
+      "path": "setup-local-ai.ps1",
+      "bytes": 2256,
+      "sha256": "a0699880ab354073ccb61191a3136c23787c486ce73d0ec7d4f4f39667c50d78"
+    },
+    {
+      "path": "THIRD-PARTY-NOTICES.txt",
+      "bytes": 1234,
+      "sha256": "1a1523e0a3c393eedcb98aaac788fcf872773e67e780798226dcf72e7634b48d"
+    }
+  ],
+  "version": "2.4.0"
+}
